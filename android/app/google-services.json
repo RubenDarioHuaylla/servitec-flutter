@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918215387076",
+    "project_id": "servitec-7a0dc",
+    "storage_bucket": "servitec-7a0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918215387076:android:468132f6b7e617471ea691",
+        "android_client_info": {
+          "package_name": "com.example.servi_tec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rS3s5mwc_SlO4jJ7L97eF2e9h_-1Fig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
